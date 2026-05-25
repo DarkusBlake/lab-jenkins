@@ -1,0 +1,18 @@
+cars_compose/
+cars/
+lab_airflow/
+lab_fastapi/
+
+*.pyc
+__pycache__/
+*.csv
+*.pkl
+*.txt
+!best_model.txt      # но сохраняем best_model.txt
+
+my_env/
+.env/
+venv/
+
+.DS_Store
+Thumbs.db
